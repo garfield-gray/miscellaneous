@@ -47,8 +47,10 @@ async def error(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 if __name__ == '__main__':
     
-    app = Application.builder().token(TOKEN).proxy_url(PROXY).build()
+    # app = Application.builder().token(TOKEN).proxy_url(PROXY).build()
+    app = Application.builder().token(TOKEN).build()
     
+ 
     # Commands
     app.add_handler(CommandHandler('start', start_command))
     app.add_handler(CommandHandler('help', help_command))
