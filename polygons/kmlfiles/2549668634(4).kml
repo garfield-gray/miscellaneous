@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>2549668634(4).kml</name>
+	<Style id="inline">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline0">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="inline1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>2549668634(4)</name>
+		<description>esmile amiri</description>
+		<styleUrl>#inline1</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						51.94897446711959,30.5516145865355,0 51.94902345862846,30.5513381400429,0 51.94901651653378,30.55123891312053,0 51.94904622630872,30.55100989252013,0 51.94923307798005,30.5507867936059,0 51.94912387489586,30.55067828936658,0 51.94913881603615,30.55056080863208,0 51.94908301777834,30.55036013475917,0 51.94901053268968,30.55024798245565,0 51.94939162034715,30.5500387723589,0 51.94965079753868,30.54991643023783,0 51.94992524701009,30.54980693396772,0 51.9502069245973,30.54961086733629,0 51.95046487219816,30.54940802906988,0 51.95067896867711,30.54929693780102,0 51.95072127201562,30.54935643608146,0 51.95082039706949,30.54950947125849,0 51.95092099977485,30.5495618327326,0 51.9510306091947,30.54958620396861,0 51.95096866250889,30.54973717847677,0 51.95062994286658,30.5499627678205,0 51.95032562918212,30.55035816582786,0 51.95000712642502,30.55058848588413,0 51.94980754333556,30.55091273701503,0 51.94926754993946,30.55119871056662,0 51.94897446711959,30.5516145865355,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>2549669703(3).kml</name>
+	<Style id="inline">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline0">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="inline1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>2549669703(3)</name>
+		<description>siavash karami majd</description>
+		<styleUrl>#inline1</styleUrl>
+		<gx:balloonVisibility>1</gx:balloonVisibility>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						51.96564583043074,30.5692336547749,0 51.96539907455471,30.56927527681773,0 51.96541861754319,30.56955036826273,0 51.965101733158,30.56961517459068,0 51.96469073530801,30.56933423747676,0 51.96466026978693,30.56942250429638,0 51.96489850452282,30.56975752889265,0 51.96511283207161,30.57023170602373,0 51.96524905496342,30.57051985596934,0 51.96539298004001,30.57131347593473,0 51.96659387802167,30.5712825264764,0 51.9663424084064,30.57084130287498,0 51.96590690148651,30.57015608457946,0 51.96564583043074,30.5692336547749,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>2549638875.kml</name>
+	<StyleMap id="inline">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline0">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline1">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>2549638875</name>
+		<description>shahriar gholami</description>
+		<styleUrl>#inline</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						52.02344229761618,30.18574442894502,0 52.02376449824775,30.18546513479943,0 52.02402356243993,30.18630852906417,0 52.02414425544259,30.18654650648712,0 52.02432608167006,30.18698793731733,0 52.02426309393181,30.18735720968874,0 52.02484090480684,30.1883262784796,0 52.02499125397266,30.18848728678658,0 52.02481996259498,30.1889477246205,0 52.02452181813644,30.1886546882587,0 52.024343803552,30.18843832151735,0 52.02430077380379,30.18839854351339,0 52.02423903766567,30.18834055152914,0 52.02355972117572,30.18658591295404,0 52.02357261345617,30.18654953123358,0 52.02373471892624,30.18646643728586,0 52.02344229761618,30.18574442894502,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

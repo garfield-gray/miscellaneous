@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>2540084125.kml</name>
+	<Style id="inline">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline0">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="inline1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>2540084125</name>
+		<description>mohammad sadr 09172445509</description>
+		<styleUrl>#inline1</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						52.00156801067787,30.26798222775056,0 52.00167504059464,30.26809122387515,0 52.00187026479519,30.26781261019069,0 52.00196930943202,30.26817709292273,0 52.00206826457584,30.26900857105601,0 52.00235115710798,30.26901908619012,0 52.00241265071169,30.26819990677514,0 52.00291023273307,30.26787295964754,0 52.00284666534316,30.2677264708945,0 52.00258095855391,30.26781853095867,0 52.0023793251066,30.26796099410511,0 52.00217656087653,30.2678328113063,0 52.00189265053533,30.26749505414706,0 52.00173300524001,30.26768597981687,0 52.00156801067787,30.26798222775056,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

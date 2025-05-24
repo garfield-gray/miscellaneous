@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>2549714865(1).kml</name>
+	<Style id="inline">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="inline0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline1">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>2549714865(1)</name>
+		<description>jahanzir abdoshahi</description>
+		<styleUrl>#inline0</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						52.02514531042489,30.48974072198535,0 52.02543922345984,30.48918515781019,0 52.02574827676783,30.48896350532307,0 52.0256586522528,30.48852083930293,0 52.02548958489041,30.48774265838305,0 52.02517036470778,30.48761382392533,0 52.02508677654149,30.4874980617345,0 52.02497308187233,30.48742224557128,0 52.02483891977987,30.48733542995291,0 52.02468430516712,30.48723197896285,0 52.02457522287459,30.487156676961,0 52.02441543814754,30.48767560029597,0 52.024198774684,30.4881130145214,0 52.02408188197919,30.4883838957691,0 52.02388059615178,30.48924306090649,0 52.02440507206264,30.48987646830366,0 52.02514531042489,30.48974072198535,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

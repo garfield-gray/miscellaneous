@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>2290963135(9).kml</name>
+	<Style id="inline">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline0">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="inline1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>2290963135(9)</name>
+		<description>ghader sadr</description>
+		<styleUrl>#inline1</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						52.11233973711333,30.39707895288736,0 52.11260143422817,30.39670329480027,0 52.11317304547735,30.39697688552296,0 52.11330837168664,30.39675786688427,0 52.1141084762843,30.39731312057703,0 52.1136729330741,30.39769932699751,0 52.11319318098263,30.39810572953108,0 52.11310127314582,30.39814310499931,0 52.11192833241402,30.39766466866431,0 52.11206996191795,30.39749164720457,0 52.11150226765197,30.39715398524099,0 52.11033447912571,30.39683203966764,0 52.11027749160931,30.39663173579658,0 52.11026231615094,30.39646820892431,0 52.1103857642051,30.39611275531756,0 52.11048134441684,30.39594285643485,0 52.11053691194861,30.39582412015442,0 52.11052104556651,30.39561445421511,0 52.11163697985312,30.39623037668358,0 52.11176177273004,30.3967586791067,0 52.11233973711333,30.39707895288736,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

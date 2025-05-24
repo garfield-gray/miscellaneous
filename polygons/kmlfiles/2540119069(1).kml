@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>2540119069(1).kml</name>
+	<Style id="inline">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="inline0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline1">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>2540119069(1)</name>
+		<description>hooman amiri</description>
+		<styleUrl>#inline0</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						51.96047142184307,30.53455693243587,0 51.9605998473991,30.53450636153435,0 51.96187360954519,30.53390637997959,0 51.96181749135329,30.53375523574642,0 51.96176090335063,30.53363576491769,0 51.96174515384653,30.53343753123564,0 51.96124317455222,30.53369938748226,0 51.96116782280424,30.53367727896182,0 51.96102421538442,30.53354675621083,0 51.96087289875106,30.53341428927774,0 51.96076786805497,30.53326176325123,0 51.96057945164306,30.53309779218731,0 51.96047570341086,30.53301206267207,0 51.96041399470225,30.53342242393093,0 51.96038539727775,30.53366735395663,0 51.96037718288751,30.53416161811773,0 51.96047142184307,30.53455693243587,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

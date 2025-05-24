@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>2549670396(10).kml</name>
+	<Style id="inline">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="inline0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline1">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>2549670396(10)</name>
+		<description>abdolmanaf etehadpoor</description>
+		<styleUrl>#inline0</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						51.95100722299168,30.54972804512391,0 51.95104471850085,30.54977646080276,0 51.9507165653369,30.55042275495025,0 51.95054654340856,30.5508065334873,0 51.95039359152106,30.55134581985711,0 51.95023512483191,30.55165346706054,0 51.95009768463093,30.55177056788021,0 51.94996140955961,30.55183656564925,0 51.94974448112904,30.55220092831858,0 51.9496509827592,30.55233864056547,0 51.94947793762394,30.55224896433748,0 51.94948288511821,30.55205604854022,0 51.9493623415278,30.55188755884226,0 51.94937480672576,30.55171278823025,0 51.94943690832964,30.55153296595041,0 51.94948321115118,30.55142806087987,0 51.94939041250197,30.55135464848002,0 51.94938521949177,30.55124856636871,0 51.94945612656014,30.55115115230641,0 51.94977494302292,30.55093993870668,0 51.94988366513968,30.55083975340354,0 51.95100722299168,30.54972804512391,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

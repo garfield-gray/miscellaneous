@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>2549560612(6).kml</name>
+	<Style id="inline">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="inline0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline1">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>2549560612(6)</name>
+		<description>yahya hooshmasndi</description>
+		<styleUrl>#inline0</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						51.81718842676369,30.38362411872598,0 51.8174655015949,30.38404999215844,0 51.81755134555025,30.38437146535924,0 51.8171188056921,30.38446410028525,0 51.81666746379742,30.38447912250407,0 51.8166247852017,30.38471615998218,0 51.81617323712545,30.3846623557217,0 51.81598832891091,30.38516448291046,0 51.81464233126115,30.38506392642857,0 51.8140066070321,30.38479083554628,0 51.81506527390692,30.38422445531225,0 51.8158398789642,30.3838687216683,0 51.81608154172392,30.38348962633487,0 51.81622982621141,30.38347135184936,0 51.8166702789708,30.38353605965682,0 51.8167773151369,30.3835740022695,0 51.81718842676369,30.38362411872598,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

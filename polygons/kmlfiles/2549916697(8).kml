@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>2549916697(8).kml</name>
+	<Style id="inline">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="inline0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline1">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>2549916697(8)</name>
+		<description>parviz mohammadi</description>
+		<styleUrl>#inline0</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						51.94811931214324,30.31190170989069,0 51.94811635768658,30.31178699248747,0 51.94812857858583,30.31167085881311,0 51.94820942488735,30.31163173075177,0 51.94831821318344,30.31154466704287,0 51.94839464176634,30.31150957900862,0 51.94851354496853,30.31148302740215,0 51.94848958411712,30.31140784324017,0 51.9482280336209,30.31146935631916,0 51.94799561331565,30.3115302997441,0 51.94783987455593,30.31157070960993,0 51.9478718253745,30.31166909948102,0 51.94761563162125,30.31170389514496,0 51.94764463816244,30.31193250670929,0 51.94800974226293,30.31190293353595,0 51.94788469421287,30.31196961433979,0 51.94796042424048,30.31212420651702,0 51.94799316314054,30.31220433991794,0 51.94805240538547,30.31256951282753,0 51.94809355398402,30.31284070717793,0 51.94808580886273,30.31299597501988,0 51.94814212781085,30.31316184208293,0 51.94823450867957,30.31317138086392,0 51.94826750554583,30.31289717480121,0 51.94811931214324,30.31190170989069,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

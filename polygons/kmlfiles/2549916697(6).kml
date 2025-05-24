@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>2549916697(6).kml</name>
+	<StyleMap id="inline">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline0">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline1">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>2549916697(6)</name>
+		<description>parviz mohammadi</description>
+		<styleUrl>#inline</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						51.94591582285986,30.31063769153628,0 51.94597114322375,30.31061681202651,0 51.94578150120592,30.31052753236211,0 51.9457157442987,30.31018095655598,0 51.94562285103872,30.31014126363132,0 51.9455759557324,30.30991729244519,0 51.9454420851512,30.30967192197206,0 51.94511519748261,30.30978705475613,0 51.9452266380029,30.31005010999023,0 51.94531070457748,30.31021011651963,0 51.94539364302759,30.31038409663634,0 51.94557076276167,30.31060477551002,0 51.94541194450558,30.31068597576609,0 51.94527960293858,30.31085126639204,0 51.9454249421277,30.31109775099672,0 51.94559591867426,30.31097516320653,0 51.94566350928151,30.31089392522351,0 51.94583479298304,30.31067546261222,0 51.94591582285986,30.31063769153628,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

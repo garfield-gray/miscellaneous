@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>2549669673(1).kml</name>
+	<StyleMap id="inline">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline0">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline1">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>2549669673(1)</name>
+		<description>abbas sasanianfard</description>
+		<styleUrl>#inline</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						51.96575946879124,30.56941441324222,0 51.96600801668631,30.56927305465178,0 51.96650177430929,30.56953931553134,0 51.96658728575242,30.56963885986641,0 51.9666743313365,30.56978627111651,0 51.96667042904427,30.56990140128436,0 51.96678089039812,30.5700518992923,0 51.96681109846691,30.57022517391364,0 51.96677244214426,30.57040906949375,0 51.9667846683593,30.57059505649699,0 51.96672171221238,30.57086451405364,0 51.9667340061936,30.57106690334239,0 51.96631316276621,30.5707009845964,0 51.96636810152637,30.57079914751037,0 51.96608374421947,30.57035197961775,0 51.96590311330441,30.57006111033608,0 51.96575946879124,30.56941441324222,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

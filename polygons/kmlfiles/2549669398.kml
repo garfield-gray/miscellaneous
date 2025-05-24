@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>2549669398.kml</name>
+	<StyleMap id="inline">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline0">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline1">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>2549669398</name>
+		<description>gholamreza mardanpoor 09173073624</description>
+		<styleUrl>#inline</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						51.96525685304344,30.56738501667986,0 51.96570456616703,30.56736783298273,0 51.96580007321988,30.56757331100488,0 51.96591542142653,30.56777246587883,0 51.96593998763043,30.56812252456912,0 51.96594143534029,30.56836338471796,0 51.96590283647187,30.56852966335416,0 51.96588449291244,30.56868367272898,0 51.96593328034249,30.56890360090287,0 51.96594588199575,30.56911627899429,0 51.96602581399847,30.56924239082756,0 51.96581873750204,30.56936346982155,0 51.96574188826934,30.56939160792512,0 51.96553582387585,30.56882251320227,0 51.96541346991395,30.56858880616564,0 51.96531566634441,30.56818097005807,0 51.96522999351919,30.56765716705686,0 51.96525685304344,30.56738501667986,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

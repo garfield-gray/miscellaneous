@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>2540093329(3).kml</name>
+	<Style id="inline">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline0">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="inline1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>2540093329(3)</name>
+		<description>ali sasanianfard</description>
+		<styleUrl>#inline1</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						51.9504639489062,30.54647885411011,0 51.95076318114009,30.54681443638047,0 51.95110023542471,30.54735042873513,0 51.95163337036387,30.54716285399169,0 51.95194706856636,30.54784979288125,0 51.95199693019243,30.54795369262643,0 51.95189656099338,30.54816014770457,0 51.95172557459995,30.54856351918386,0 51.95147585900813,30.5490192132472,0 51.95113076492417,30.54936493441502,0 51.951037497469,30.54951305371461,0 51.95099133618091,30.54919346027189,0 51.9509500123978,30.54871876026078,0 51.95094117367618,30.54848918085072,0 51.95096249045924,30.54825054002594,0 51.95087743818318,30.5480771067588,0 51.95066593425119,30.54781261751858,0 51.95047521746035,30.54758296207443,0 51.9504034752257,30.54717801122783,0 51.95016695676718,30.54697522510267,0 51.94999006956977,30.54671253499175,0 51.9504639489062,30.54647885411011,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>2540093329.kml</name>
+	<Style id="inline">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline0">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="inline1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>2540093329</name>
+		<description>ali sasanianfard 009174170146</description>
+		<styleUrl>#inline1</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						51.94657881673213,30.54060203767204,0 51.94727108210569,30.53997088402538,0 51.94749871257351,30.53973526191863,0 51.94761775548735,30.53973619006944,0 51.94767907513707,30.53970936102636,0 51.94775973653379,30.53976335165252,0 51.94782844857607,30.53983801317344,0 51.94788639489879,30.53994062633338,0 51.94793221698022,30.54004078948024,0 51.94801276294366,30.54020222408647,0 51.94807859360166,30.54034942666331,0 51.94818098267582,30.54045839531904,0 51.94837872262327,30.54063335279817,0 51.94850660894413,30.54076369845927,0 51.94851753367048,30.54085845779672,0 51.94831550264716,30.54098619808663,0 51.9481003715331,30.54114360014698,0 51.94774113360607,30.5413345252531,0 51.94754928684114,30.54139728782324,0 51.94728322081363,30.54148957823967,0 51.94717990856378,30.5415291924705,0 51.946723657881,30.54106527174307,0 51.94651612965528,30.54079595333578,0 51.94657881673213,30.54060203767204,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

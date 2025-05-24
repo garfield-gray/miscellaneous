@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>2370841893.kml</name>
+	<StyleMap id="inline">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline0">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline1">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>2370841893</name>
+		<description>ghazanfar jafari 09173135908</description>
+		<styleUrl>#inline</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						51.90017121840761,30.30203969339482,0 51.90008778517652,30.30189031655717,0 51.89994728251476,30.30171100865577,0 51.89990316345148,30.30170261432679,0 51.89979310416292,30.30165679762173,0 51.89965338973215,30.30161456330987,0 51.89957240684775,30.30155764770615,0 51.89945050795578,30.30155056265701,0 51.8994071225056,30.30131595735491,0 51.89930709689185,30.30112717774647,0 51.8992391878288,30.30100509599153,0 51.89918488523238,30.30087477041465,0 51.89922081774127,30.30061708302875,0 51.89923162466222,30.30046621325827,0 51.89927472166057,30.30014682926675,0 51.89936928314462,30.29995577398526,0 51.89948105082976,30.29977232457378,0 51.89968354038195,30.29966674857709,0 51.89990633508317,30.29957397901997,0 51.89999848547573,30.2996971925791,0 51.90003396007575,30.29997959531595,0 51.90013517186208,30.3002941531904,0 51.90021299493887,30.30072726718126,0 51.90034833873092,30.30112678817375,0 51.9005290042504,30.30140257494874,0 51.90050983320615,30.30164273199389,0 51.90043138029099,30.30199663207716,0 51.90017121840761,30.30203969339482,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

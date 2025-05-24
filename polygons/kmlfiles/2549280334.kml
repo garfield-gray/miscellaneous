@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>2549280334.kml</name>
+	<Style id="inline">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="inline0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline1">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>2549280334</name>
+		<description>mohammad hadi maleknasab</description>
+		<styleUrl>#inline0</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						51.95944804394701,30.23719130213773,0 51.95916089275627,30.23638654420675,0 51.95901733933115,30.23639626062771,0 51.95895997004651,30.2360291027566,0 51.95903430265095,30.23567499029085,0 51.95932034539614,30.23507685090118,0 51.95998769126978,30.23455717550602,0 51.96089401936673,30.23384610781993,0 51.9606845385945,30.23344148293436,0 51.96011431689023,30.23383052645395,0 51.96000874586926,30.23391145348868,0 51.95922422406183,30.23324005029394,0 51.95903796466242,30.23382321050084,0 51.95965321776101,30.23425100325132,0 51.95904890976615,30.23475645947589,0 51.95884045879544,30.23487697197857,0 51.95872340323285,30.23488322839616,0 51.95856734660787,30.23530067391331,0 51.95863233203999,30.23608623996384,0 51.95875914589996,30.23658334227298,0 51.95898030982184,30.2371091874536,0 51.95915412510956,30.23744157897099,0 51.95944804394701,30.23719130213773,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

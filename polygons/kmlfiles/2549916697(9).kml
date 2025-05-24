@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>2549916697(9).kml</name>
+	<StyleMap id="inline">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline0">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline1">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>2549916697(9)</name>
+		<description>parviz mahammadi</description>
+		<styleUrl>#inline</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						51.98139998531622,30.28065863132235,0 51.98110476033641,30.28103981169355,0 51.98054513969489,30.28119005938474,0 51.98023755760723,30.28140359765895,0 51.97978025581863,30.28203258511044,0 51.97955266883893,30.28215343827964,0 51.97911021477766,30.28216076153787,0 51.97847554384077,30.28222060243791,0 51.97850660668126,30.28160428920577,0 51.97858704309557,30.28119774625393,0 51.97926581425069,30.28074997956043,0 51.97968299255172,30.28057697709099,0 51.97966061370252,30.2803153759951,0 51.97953600908691,30.280120258415,0 51.97934856996401,30.2798792076446,0 51.97961606157082,30.27959876488683,0 51.98139998531622,30.28065863132235,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

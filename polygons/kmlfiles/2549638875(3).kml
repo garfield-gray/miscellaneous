@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>2549638875(3).kml</name>
+	<Style id="inline">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline0">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="inline1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>2549638875(3)</name>
+		<description>shahriai gholami (wheet)</description>
+		<styleUrl>#inline1</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						52.02412683268309,30.1763787917681,0 52.02448970506911,30.17706897714915,0 52.02436468859815,30.17716490007209,0 52.02422701874585,30.17717927445454,0 52.02412617487828,30.17718478932831,0 52.0240297863685,30.17711713083719,0 52.02380218662272,30.17703636130465,0 52.02374550578987,30.17688486857073,0 52.02373993528309,30.17675233167974,0 52.0237126667754,30.17670803617991,0 52.02369241638628,30.17662187681039,0 52.0237006955162,30.17656594030306,0 52.02364267076913,30.17639380627317,0 52.02364964052514,30.17625893259759,0 52.02362923739128,30.17616571337703,0 52.02385718767673,30.17633933822391,0 52.02412683268309,30.1763787917681,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

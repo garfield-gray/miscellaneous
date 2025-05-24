@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>2549668634.kml</name>
+	<StyleMap id="inline">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline0">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline1">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>2549668634</name>
+		<description>esmaile amiri 09174142275</description>
+		<styleUrl>#inline</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						51.95669242990012,30.54900485525425,0 51.95640654682681,30.54893058226541,0 51.95615812632164,30.54904694866816,0 51.95666473773429,30.54974334742319,0 51.95680246629664,30.55020071214344,0 51.95701685657015,30.55040956993494,0 51.95741204829995,30.55043986831211,0 51.95736770077714,30.55024538986038,0 51.95740245774554,30.55000192442271,0 51.95743437602352,30.54969683293911,0 51.95743222391455,30.54945985326886,0 51.95719151858079,30.5494825322475,0 51.95746029588238,30.54899354731112,0 51.95736009002619,30.54877382790326,0 51.95719245920616,30.54853294160838,0 51.95684513177271,30.54869230757944,0 51.95693034114019,30.54887850511366,0 51.95686859223272,30.54891577246929,0 51.95678184104903,30.54895705480652,0 51.95672010127993,30.54896948417097,0 51.95669242990012,30.54900485525425,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

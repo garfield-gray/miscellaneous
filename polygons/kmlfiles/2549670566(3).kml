@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>2549670566(3).kml</name>
+	<Style id="inline">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline0">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="inline1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>2549670566(3)</name>
+		<description>homeyra khorshidi</description>
+		<styleUrl>#inline1</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						51.92822384588633,30.55811094008713,0 51.92654092059566,30.55752011830951,0 51.92626934326969,30.55846169355655,0 51.92613611236773,30.55880240543621,0 51.9276467212631,30.55939486462094,0 51.92802457933902,30.55954213409478,0 51.92863516345174,30.55947792812734,0 51.92893457520039,30.55970733226372,0 51.92932601771875,30.55970174170332,0 51.92973606966098,30.55932449395113,0 51.92998890533818,30.55963278038417,0 51.93033140276323,30.55943822164122,0 51.93051555297091,30.55907002074829,0 51.93057540947902,30.55876795125731,0 51.93051442151238,30.55838979505968,0 51.93015110530984,30.55876278928477,0 51.92977779179404,30.55870463032392,0 51.92951718049424,30.5589077953839,0 51.92852859430973,30.55803658921375,0 51.92839011234449,30.55818414048028,0 51.92828815604603,30.55811302242455,0 51.92822384588633,30.55811094008713,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

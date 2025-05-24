@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>25492803937(3).kml</name>
+	<StyleMap id="inline">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline0">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline1">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>25492803937(3)</name>
+		<description>mohammadhossein maleknasab
+</description>
+		<styleUrl>#inline</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						51.95149532094248,30.22771134138315,0 51.95133021377266,30.22822794011404,0 51.95135602651394,30.22872096198616,0 51.95138405414006,30.22890438412701,0 51.95125927141907,30.22900299269754,0 51.95094291281661,30.22890489673338,0 51.95078688288082,30.22884758860842,0 51.95066498053402,30.22874856640142,0 51.950444198217,30.22858530736086,0 51.95024658739915,30.22855337739146,0 51.95003299022158,30.22852130354547,0 51.94979710744277,30.22849710006722,0 51.94958494077182,30.22849798269349,0 51.9493076968799,30.22844574812839,0 51.94900230682493,30.22848731996654,0 51.9486334488562,30.22851457254429,0 51.94836341481449,30.22846873230526,0 51.94816661614258,30.22850785340589,0 51.94779197856508,30.22834718755555,0 51.94924013741965,30.22822679175779,0 51.94997879732899,30.22824130992329,0 51.95027119378224,30.22785575239298,0 51.9509564746329,30.22757563682579,0 51.95149532094248,30.22771134138315,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

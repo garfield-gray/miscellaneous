@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>2549668634(2).kml</name>
+	<Style id="inline">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="inline0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline1">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>2549668634(2)</name>
+		<description>esmile amiri</description>
+		<styleUrl>#inline0</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						51.96589871077053,30.56863175166725,0 51.96587362771651,30.56873627456631,0 51.96597919889209,30.56895432169081,0 51.96593041674257,30.56908852108313,0 51.96600418098325,30.56924147257439,0 51.96651533651222,30.56956875628716,0 51.96680025348823,30.56963352022037,0 51.96673456369504,30.56938517134318,0 51.96680653306839,30.56919995337482,0 51.96679888588284,30.56905711002476,0 51.96672539926936,30.56896565417044,0 51.96638231931212,30.56886623716921,0 51.9662126111899,30.5688361237855,0 51.96598730632991,30.56872922854384,0 51.96589871077053,30.56863175166725,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

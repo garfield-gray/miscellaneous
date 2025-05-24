@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>2549492978(1).kml</name>
+	<Style id="inline">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="inline0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline1">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>2549492978(1)</name>
+		<description>abdollah salehi</description>
+		<styleUrl>#inline0</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						51.94992302475199,30.22984548816661,0 51.94974701736343,30.22994025099515,0 51.94956182997436,30.22995442757628,0 51.94935420935215,30.22999110193458,0 51.9490456634546,30.23012923681332,0 51.94879669584903,30.23028853876287,0 51.94870428461626,30.23073371250426,0 51.94871297105878,30.23094970464987,0 51.94860483646175,30.23118691593502,0 51.94843792068747,30.23148102173903,0 51.94842767073728,30.23168847056803,0 51.9486139141827,30.23169871208042,0 51.94880479043085,30.23171160756253,0 51.94919400726947,30.23169985061893,0 51.94933857068636,30.23165562773475,0 51.94951694928244,30.23167308955545,0 51.94978881194386,30.23164860138958,0 51.94991062736541,30.23137579223063,0 51.94998917489131,30.23135212730616,0 51.94990913581841,30.23097972572155,0 51.94978949320519,30.23072846398914,0 51.94992302475199,30.22984548816661,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

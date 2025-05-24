@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>25492803937(5).kml</name>
+	<Style id="inline">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="inline0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline1">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>25492803937(5)</name>
+		<description>mohammadhossein maleknasab
+</description>
+		<styleUrl>#inline0</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						51.95486278361476,30.22701014081947,0 51.95468071958607,30.22694452426478,0 51.95453171205862,30.22691967711576,0 51.95430150341531,30.2268675089778,0 51.95417791797001,30.22675841832487,0 51.95404642229104,30.22677108805785,0 51.95400036753296,30.22697452240658,0 51.95383636057294,30.22712476472473,0 51.9537662815964,30.22718973364174,0 51.95369063773681,30.22738599948638,0 51.95396891539706,30.22772279506036,0 51.95409815851529,30.22797572851832,0 51.95437745499459,30.22759075268509,0 51.95486278361476,30.22701014081947,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

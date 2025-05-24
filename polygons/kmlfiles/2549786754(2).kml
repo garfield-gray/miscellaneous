@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>2549786754(2).kml</name>
+	<Style id="inline">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline0">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="inline1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>2549786754(2)</name>
+		<description>asghar salehi</description>
+		<styleUrl>#inline1</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						51.97833294224476,30.22415271146834,0 51.97772258202182,30.22332878116357,0 51.97780197735123,30.2230849842231,0 51.97786932392841,30.22302083782687,0 51.97800073990611,30.22293443883209,0 51.97810985639139,30.22290584383777,0 51.9783442593445,30.22282488120337,0 51.97852957086329,30.22282631941685,0 51.97858582170124,30.2229728421786,0 51.97856448237144,30.22318682777124,0 51.97860304899743,30.22335886952722,0 51.97856193998196,30.22364610914328,0 51.97854091981547,30.22389800691678,0 51.97849430346259,30.22408437142158,0 51.97846399142244,30.22416122641322,0 51.97833294224476,30.22415271146834,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

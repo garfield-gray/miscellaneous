@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>2540092330(1).kml</name>
+	<Style id="inline">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline0">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="inline1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>2540092330(1)</name>
+		<description>mehdi khorshidinia</description>
+		<styleUrl>#inline1</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						51.96566420684333,30.53761029284096,0 51.96521515928056,30.53779279393456,0 51.96524287593401,30.53793641729339,0 51.964867622057,30.53804282405535,0 51.96456945633335,30.53837398947756,0 51.96434502326468,30.53883679044233,0 51.96354090271933,30.53911545255153,0 51.96372331255752,30.53952610838646,0 51.96514962139984,30.53920325663684,0 51.96608278126959,30.53869235001381,0 51.9664821319722,30.53878287225803,0 51.96684184178203,30.53847761419028,0 51.96756678784993,30.53838998325616,0 51.96756226198845,30.53788986905737,0 51.96650928696322,30.53758236681893,0 51.96566420684333,30.53761029284096,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>2549987977(3).kml</name>
+	<StyleMap id="inline">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline0">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline1">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>2549987977(3)</name>
+		<description>hamid sadeghi
+</description>
+		<styleUrl>#inline</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						51.94941983119453,30.5462551887266,0 51.94959565636529,30.546587545276,0 51.95013156044914,30.54694726019978,0 51.95025588406357,30.547175349372,0 51.95025492557903,30.54739459762992,0 51.95008088134029,30.54746442436758,0 51.94999845936197,30.54752092961767,0 51.94978912390071,30.54738806523009,0 51.94954680177842,30.54722275162051,0 51.94941981108863,30.54712799302558,0 51.94930587911432,30.54714741536574,0 51.94919750582727,30.54736953625303,0 51.94921233545212,30.54749884003381,0 51.94908461792137,30.54785126801247,0 51.94897680243335,30.54799507428355,0 51.94873884068291,30.54783643526071,0 51.94861041942846,30.54765317014703,0 51.94848430672056,30.54758587415607,0 51.94813589046547,30.54733530024865,0 51.94871618685158,30.54671069541178,0 51.94905120052906,30.54637114518889,0 51.94941983119453,30.5462551887266,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

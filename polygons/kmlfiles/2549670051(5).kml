@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>2549670051(5).kml</name>
+	<StyleMap id="inline">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline0">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline1">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>2549670051(5)</name>
+		<description>mohsen khorshidi</description>
+		<styleUrl>#inline</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						51.94948781132801,30.53854835359236,0 51.94915933650435,30.53860473496585,0 51.9488916038082,30.53864356622927,0 51.94884431463086,30.53899878445627,0 51.94875776746395,30.53905848389788,0 51.94850973230478,30.53895155404834,0 51.94777869601491,30.53877644000999,0 51.94775903188497,30.53847448631024,0 51.94773579763119,30.53831833147114,0 51.94782259176401,30.53789817846291,0 51.94847579975505,30.53795923255887,0 51.9486744841848,30.53783748608371,0 51.94907847570769,30.5378015393093,0 51.94896346595897,30.53714404230672,0 51.9489546275515,30.53668318260505,0 51.94925308113903,30.53656698843948,0 51.9495028665434,30.53649666116808,0 51.94967258366157,30.53649864227922,0 51.94979309391664,30.5365249494935,0 51.94990202524014,30.53651018350052,0 51.95000489106708,30.53650924027556,0 51.94979057791178,30.53695468795392,0 51.94990610801258,30.5372554773932,0 51.94980341862541,30.53752027066507,0 51.94987674663368,30.53774242650888,0 51.94948781132801,30.53854835359236,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>
