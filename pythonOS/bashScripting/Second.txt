@@ -6,10 +6,10 @@ print("Don't mind me, just a bit of text here...")
 ./stdout_example.py > new_file.txt
 cat new_file.txt 
 #Output: Don't mind me, just a bit of text here...
-./stdout_example.py >> new_file.txt
+./stdout_example.py >> new_file.txt # appends
 cat new_file.txt 
 #Output: Don't mind me, just a bit of text here...
- #Don't mind me, just a bit of text here...
+ #Don't mind me, just a bit of text here... 
 cat streams_err.py 
 #!/usr/bin/env python3
 
@@ -22,7 +22,7 @@ raise ValueError("Now we generate an error to STDERR")
   #File "./streams_err.py", line 5, in <module>
     #raise ValueError("Now we generate an error to STDERR")
 #ValueError: Now we generate an error to STDERR
-./streams_err.py < new_file.txt 2> error_file.txt
+./streams_err.py < new_file.txt 2> error_file.txt   # oh wow!
 #This will come from STDIN: Now we write it to STDOUT: Don't mind #me, just a bit of text here...
 cat error_file.txt 
 #Traceback (most recent call last):
