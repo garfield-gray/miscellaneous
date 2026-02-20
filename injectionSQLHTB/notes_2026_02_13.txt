@@ -1,0 +1,6 @@
+So, 
+if we think of the distance between plane filesystem and RDBMS as a spectrum, 
+the NoSQL falls somewhere between this, cause it doesn't have the rigidness of
+SQL and nor the freedom of ordinary filesystem.
+
+UPDATE fpr rows, ALTER and MODIFY for columns 

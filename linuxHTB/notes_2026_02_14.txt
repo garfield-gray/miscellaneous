@@ -1,0 +1,6 @@
+one of the important core principles of linux is "Avoid captive user interfaces"
+which means "Linux is designed to work mainly with the shell (or terminal), which gives the user greater control over the operating system."
+and you know, the phrase "captive user" was appealing to me.
+
+start from "System Information"
+
