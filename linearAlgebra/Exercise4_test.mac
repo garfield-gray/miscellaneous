@@ -1,0 +1,23 @@
+load("linearalgebra");
+A : matrix(
+	[9,-2,1],
+	[-1,5,-1],
+	[1,-2,9]
+)$
+euc_norm(X) := block([], (X . X)^0.5)$
+
+b : matrix(
+	[1],
+	[1],
+	[1]
+)$ 
+
+x_init : matrix(
+	[0],
+	[0],
+	[0]
+)$ 
+X : (A . b)/euc_norm(A . b)$
+print(X . A . X);
+quit();
+

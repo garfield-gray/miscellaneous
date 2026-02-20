@@ -1,0 +1,68 @@
+load("linearalgebra");
+numer : true;
+fpprec: 30;
+
+A : matrix(
+	[9,-2,1],
+	[-1,5,-1],
+	[1,-2,9]
+)$
+
+b : matrix(
+	[13],
+	[9],
+	[-11]
+)$ 
+
+x_init : matrix(
+	[0],
+	[0],
+	[0]
+)$ 
+
+
+iteration_sor(A, b, omega, x_0, [optional_arg]) := block(
+	[len, D, L, U, X, X_p, M, N],
+	/*dimention checks*/
+	if length(optional_arg) # 1 then error("optional_arg requires to be exactly 1 argument"),
+	if matrix_size(A)[1] # matrix_size(A)[2] then error("the matrix A must be square"),
+	if matrix_size(A)[1] # matrix_size(b)[1] then error("dimention errror"),
+	/*matrix singularity checks*/	
+	if determinant(A) < 0.001 then error("the matrix is near to singular!"),
+	/*matrix singularity checks*/	
+	if (omega < 0) or (omega > 2)then error("the matrix is near to singular!"),
+	len : length(A),
+
+
+	D : genmatrix(lambda([i,j], if i=j then A[i,i] else 0), len, len),  /*creating diagonal matrix*/
+	L : genmatrix(lambda([i,j], if i>j then A[i,j] else 0), len, len),  /*creating lower triangular matrix*/
+	U : genmatrix(lambda([i,j], if i<j then A[i,j] else 0), len, len),  /*creating upper triangular matrix*/
+	X : x_0,
+	M : L + (1/omega) . D,
+	N : (1/omega -1 ). D -U,
+	rhs : b,
+	X_p : X,
+	if optional_arg[1] < 1 then /*optional_arg is epsilon*/
+	do (
+		X_p : X,
+		rhs : N . X + b,
+    		X : linsolve_by_lu(M,rhs)[1],
+        	print("diff =", (((X-X_p).(X-X_p))^0.5), "X =", bfloat(X)),
+		if (((X-X_p).(X-X_p))^0.5) < optional_arg[1] then return("")
+		) 
+	else                       /*optional_arg is number*/
+	for i : 1 thru optional_arg[1] do(
+		rhs : N . X + b,
+    		X : linsolve_by_lu(M,rhs)[1],	
+        	print("i =", i, "X =", bfloat(X))
+	),
+	X
+)$
+
+print(iteration_sor(A, b, 1.5, x_init, 0.01))$
+
+print(iteration_sor(A, b, 1.5, x_init, 10))$
+
+quit();
+
+

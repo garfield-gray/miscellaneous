@@ -1,0 +1,55 @@
+load("linearalgebra");
+numer : true;
+fpprec: 30;
+
+A : matrix(
+	[9,-2,1],
+	[-1,5,-1],
+	[1,-2,9]
+)$
+
+b : matrix(
+	[13],
+	[9],
+	[-11]
+)$ 
+
+euc_norm(X) := block([], (X . X)^0.5)$
+
+iteration_power_method(A, b_0, [optional_arg]) := block(
+	[len, X_p, X, lambda],
+	/*dimention checks*/
+	if length(optional_arg) # 1 then error("optional_arg requires to be exactly 1 argument"),
+	if matrix_size(A)[1] # matrix_size(A)[2] then error("the matrix A must be square"),
+	if matrix_size(A)[1] # matrix_size(b_0)[1] then error("dimention errror"),
+	/*matrix singularity checks*/	
+	if determinant(A) < 0.001 then error("the matrix is near to singular!"),
+	/*matrix singularity checks*/	
+	len : length(A),
+	X : b_0,
+	X_p : X,
+	if optional_arg[1] < 1 then /*optional_arg is epsilon*/
+	do (
+		X_p : X/euc_norm(X),
+		X : (A . X)/euc_norm(A . X),
+    		lambda : X . A . X,	
+        	print("diff =", euc_norm(X-X_p), "X =", bfloat(X), "lambda =", lambda),
+		if euc_norm(X-X_p) < optional_arg[1] then return("")
+		) 
+	else                       /*optional_arg is number*/
+	for i : 1 thru optional_arg[1] do(
+		X : (A . X)/euc_norm(A . X),
+    		lambda : X . A . X,	
+        	print("i =", i, "X =", bfloat(X), "lambda =", lambda)
+	),
+	[X, lambda] /*pay attention*/
+)$
+
+
+print(iteration_power_method(A, b, 0.01))$
+
+print(iteration_power_method(A, b, 20))$
+
+quit();
+
+

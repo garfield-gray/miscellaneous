@@ -1,0 +1,7 @@
+load("linearalgebra");
+
+A : matrix ([1,0],[1,0]);
+
+print(nullspace(A));
+
+
